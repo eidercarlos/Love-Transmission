@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zoombie
+  - Seletor 4
+  - Seletor 1
+  - Seletor 3
+  - Seletor 2
+  - "Janela de Sele\xE7\xE3o de Golpes"
+  - "Op\xE7\xE3o 4"
+  - "Op\xE7\xE3o 3"
+  - "Op\xE7\xE3o 2"
+  - "Op\xE7\xE3o 5"
+  - Seletor 5
+  - "Op\xE7\xE3o 1"
+  - Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<language>
+  <pt-br>
+    <text name="Menu Principal Novo Jogo">Novo Jogo</text>
+    <text name="Menu Principal Carregar Jogo">Carregar Jogo</text>
+    <text name="Menu Principal Opções">Opções</text>
+    <text name="Menu Principal Créditos">Créditos</text>
+    <text name="Menu Principal Fechar Jogo">Fechar Jogo</text>
+    
+		<text name="Protagonist's Name">Garoto</text>
+		<text name="Bed's Name">Cama</text>
+
+    <text name="Skill Garoto SairDaCama Nome">Sair da Cama</text>
+    <text name="Skill Garoto SairDaCama É Usada"> tenta sair da cama!</text>
+    <text name="Skill Garoto SairDaCama Funcionou"> está saindo da cama!</text>
+    <text name="Skill Garoto SairDaCama Não Funcionou"> ...não consegue sair... é mais confortável ficar na cama...</text>
+    
+    <text name="Skill Garoto Levantar Nome">Levantar</text>
+    <text name="Skill Garoto Levantar É Usada"> tenta se levantar!</text>
+    <text name="Skill Garoto Levantar Funcionou"> está se levantando!</text>
+    <text name="Skill Garoto Levantar Não Funcionou">...resolve ficar na cama mesmo...</text>
+
+    <text name="Skill Garoto PensarNosAmigos Nome">Pensar Nos Amigos</text>
+    <text name="Skill Garoto PensarNosAmigos É Usada"> começa a pensar nos amigos!</text>
+    <text name="Skill Garoto PensarNosAmigos Funcionou"> se anima ao pensar nos amigos!</text>
+    <text name="Skill Garoto PensarNosAmigos Não Funcionou">Na cama não dá pra se animar tanto...</text>
+
+    <text name="Skill Cama MaciezDoColchao Nome">Maciez do Colchão</text>
+    <text name="Skill Cama MaciezDoColchao É Usada"> é macia.</text>
+    <text name="Skill Cama MaciezDoColchao Funcionou">A cama é tão macia... melhor ficar nela mais um pouco...</text>
+
+    <text name="Skill Cama TravesseiroConfortavel Nome">Travesseiro Confortável</text>
+    <text name="Skill Cama TravesseiroConfortavel É Usada">O travesseiro é confortável.</text>
+    <text name="Skill Cama TravesseiroConfortavel Funcionou">Nem dá vontade de sair da cama...</text>
+  
+    <text name="Skill Cama EdredonQuentinho Nome">Edredon Quentinho</text>
+    <text name="Skill Cama EdredonQuentinho É Usada">O edredon é... ZZZZZZ...</text>
+    <text name="Skill Cama EdredonQuentinho Funcionou">ZZZZZZZ...</text>
+    <text name="Skill Cama EdredonQuentinho Não Funcionou">...não, já é de manhã!</text>
+    <text name="Skill Cama EdredonQuentinho Em Caso De Animação">A animação do garoto diminui... ficar enrolado no edredon seria tão bom...</text>
+
+    <text name="Status Normal">Normal</text>
+    
+    <text name="Status Animado">Animado</text>
+    <text name="Status Animado Efeito Sobre Oponente">Animação aumenta a vontade de levantar!</text>
+    <text name="Status Animado Fim De Status">A animação do garoto diminui... ficar enrolado no edredon seria tão bom...</text>
+    
+    <text name="Status Sonolento">Sonolento</text>
+    <text name="Status Sonolento Começo de Rodada">ZZZZZZ... o garoto cochila.</text>
+    <text name="Status Sonolento Efeito Sobre Portador">Dormir faz o tempo passar...</text>
+    <text name="Status Sonolento Efeito Sobre Oponente">Dormir diminui a vontade de levantar...</text>        
+    <text name="Status Sonolento Fim De Status">O garoto acordou!</text>  
+    
+    <text name="Mensagem Derrota de Protagonista"> dormiu</text>
+    <text name="Mensagem Derrota de Cama"> saiu da cama!</text>
+
+	</pt-br>
+	
+	<en>
+    <text name="Menu Principal Novo Jogo">New Game</text>
+    <text name="Menu Principal Carregar Jogo">Load Game</text>
+    <text name="Menu Principal Opções">Options</text>
+    <text name="Menu Principal Créditos">Credits</text>
+    <text name="Menu Principal Fechar Jogo">Close Game</text>
+    
+		<text name="Protagonist's Name">Boy</text>
+		<text name="Bed's Name">Bed</text>
+
+    <text name="Skill Garoto SairDaCama Nome">Leaves Bed</text>
+    <text name="Skill Garoto SairDaCama É Usada"> tries to leave the bed!</text>
+    <text name="Skill Garoto SairDaCama Funcionou"> is leaving the bed!</text>
+    <text name="Skill Garoto SairDaCama Não Funcionou"> ...can't leave... it's more confortable to stay in the bed...</text>
+  
+    <text name="Skill Garoto Levantar Nome">Get Up</text>
+    <text name="Skill Garoto Levantar É Usada"> tries to get up!</text>
+    <text name="Skill Garoto Levantar Funcionou"> is getting up!</text>
+    <text name="Skill Garoto Levantar Não Funcionou"> ...decides to stay in the bed...</text>
+ 
+    <text name="Skill Garoto PensarNosAmigos Nome">Thinks In Friends</text>
+    <text name="Skill Garoto PensarNosAmigos É Usada"> starts to think in his friends!</text>
+    <text name="Skill Garoto PensarNosAmigos Funcionou"> gets excited by thinking in his friends!</text>
+    <text name="Skill Garoto PensarNosAmigos Não Funcionou">In the bed is hard to become excited...</text>
+
+    <text name="Skill Cama MaciezDoColchao Nome">Soft Mattress</text>
+    <text name="Skill Cama MaciezDoColchao É Usada"> is soft.</text>
+    <text name="Skill Cama MaciezDoColchao Funcionou">The bed is so soft... better to stay on it a little more...</text>
+  
+    <text name="Skill Cama TravesseiroConfortavel Nome">Confortable Pillow</text>
+    <text name="Skill Cama TravesseiroConfortavel É Usada">The pillow is confortable.</text>
+    <text name="Skill Cama TravesseiroConfortavel Funcionou">There's no will to leave the bed...</text>
+
+    <text name="Skill Cama EdredonQuentinho Nome">Hot Duvet</text>
+    <text name="Skill Cama EdredonQuentinho É Usada">The duvet is... ZZZZZZ...</text>
+    <text name="Skill Cama EdredonQuentinho Funcionou">ZZZZZZZ...</text>
+    <text name="Skill Cama EdredonQuentinho Não Funcionou">...no, it's morning already!</text>
+    <text name="Skill Cama EdredonQuentinho Em Caso De Animação">The boy's energy diminishes... staying in the duvet would be so good..."</text>
+ 
+    <text name="Status Normal">Normal</text>
+    
+    <text name="Status Animado">Excited</text>
+    <text name="Status Animado Efeito Sobre Oponente">Excitement increases the will to get up!</text>
+    <text name="Status Animado Fim De Status">The boy's energy diminishes... staying in the duvet would be so good...</text>
+    
+    <text name="Status Sonolento">Sleepy</text>
+    <text name="Status Sonolento Começo de Rodada">ZZZZZZ... the boy naps.</text>
+    <text name="Status Sonolento Efeito Sobre Portador">Being sleepy makes the time pass...</text>
+    <text name="Status Sonolento Efeito Sobre Oponente">Being sleepy reduces the will to get up...</text>        
+    <text name="Status Sonolento Fim De Status">The boy woke up!</text>  
+    
+    <text name="Mensagem Derrota de Protagonista"> slept</text>
+    <text name="Mensagem Derrota de Cama"> left the bed!</text>
+	</en>
+	
+	<es>
+    <text name="Menu Principal Novo Jogo">Não colocado.</text>
+    <text name="Menu Principal Carregar Jogo">Não colocado.</text>
+    <text name="Menu Principal Opções">Não colocado.</text>
+    <text name="Menu Principal Créditos">Não colocado.</text>
+    <text name="Menu Principal Fechar Jogo">Não colocado.</text>
+    
+    <text name="Protagonist's Name">Não colocado.</text>
+		<text name="Bed's Name">Não colocado.</text>
+  
+    <text name="Skill Garoto Levantar Nome">Não colocado.</text>
+    <text name="Skill Garoto SairDaCama É Usada">Não colocado.</text>
+    <text name="Skill Garoto SairDaCama Funcionou">Não colocado.</text>
+    <text name="Skill Garoto SairDaCama Não Funcionou">Não colocado.</text>
+  
+    <text name="Skill Garoto Levantar É Usada">Não colocado.</text>
+    <text name="Skill Garoto Levantar Funcionou">Não colocado.</text>
+    <text name="Skill Garoto Levantar Não Funcionou">Não colocado.</text>
+  
+    <text name="Skill Garoto PensarNosAmigos É Usada">Não colocado.</text>
+    <text name="Skill Garoto PensarNosAmigos Funcionou">Não colocado.</text>
+    <text name="Skill Garoto PensarNosAmigos Não Funcionou">Não colocado.</text>
+  
+    <text name="Skill Cama MaciezDoColchao É Usada">Não colocado.</text>
+    <text name="Skill Cama MaciezDoColchao Funcionou">Não colocado.</text>
+  
+    <text name="Skill Cama TravesseiroConfortavel É Usada">Não colocado.</text>
+    <text name="Skill Cama TravesseiroConfortavel Funcionou">Não colocado.</text>
+  
+    <text name="Skill Cama EdredonQuentinho É Usada">Não colocado.</text>
+    <text name="Skill Cama EdredonQuentinho Funcionou">Não colocado.</text>
+    <text name="Skill Cama EdredonQuentinho Não Funcionou">Não colocado.</text>
+    <text name="Skill Cama EdredonQuentinho Em Caso De Animação">Não colocado.</text>
+  
+    <text name="Status Normal">Não colocado.</text>
+    
+    <text name="Status Animado">Não colocado.</text>
+    <text name="Status Animado Efeito Sobre Oponente">Não colocado.</text>
+    <text name="Status Animado Fim De Status">Não colocado.</text>
+    
+    <text name="Status Sonolento">Não colocado.</text>
+    <text name="Status Sonolento Começo de Rodada">Não colocado.</text>
+    <text name="Status Sonolento Efeito Sobre Portador">Não colocado.</text>
+    <text name="Status Sonolento Efeito Sobre Oponente">Não colocado.</text>    
+    <text name="Status Sonolento Fim De Status">Não colocado.</text>      
+    
+    <text name="Mensagem Derrota de Protagonista">Não colocado.</text>
+    <text name="Mensagem Derrota de Cama">Não colocado.</text>
+	</es>
+</language>
